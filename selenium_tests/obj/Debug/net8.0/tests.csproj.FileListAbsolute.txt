@@ -1,0 +1,5 @@
+/Users/fildro/Documents/TestMVC/selenium_tests/obj/Debug/net8.0/tests.csproj.AssemblyReference.cache
+/Users/fildro/Documents/TestMVC/selenium_tests/obj/Debug/net8.0/tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fildro/Documents/TestMVC/selenium_tests/obj/Debug/net8.0/tests.AssemblyInfoInputs.cache
+/Users/fildro/Documents/TestMVC/selenium_tests/obj/Debug/net8.0/tests.AssemblyInfo.cs
+/Users/fildro/Documents/TestMVC/selenium_tests/obj/Debug/net8.0/tests.csproj.CoreCompileInputs.cache
