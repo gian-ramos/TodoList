@@ -17,6 +17,6 @@ Enter into visual studio code.
 
 Open the Project
 
-Open a Terminal (In the Project Path)
+Open a Terminal (In the Project Path): cd ./selenium_tests
 
 Run: dotnet test --filter TestCategory=ToDo
